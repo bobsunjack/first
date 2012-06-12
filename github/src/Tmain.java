@@ -15,6 +15,7 @@ public class Tmain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("one");
+		System.out.println("two");
 
 	}
 
