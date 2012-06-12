@@ -17,7 +17,11 @@ public class Tmain {
 		System.out.println("one");
 		System.out.println("two");
 		System.out.println("three");
+ 
 		System.out.println("six");
+ 
+		System.out.println("seven");
+ 
 
 	}
 
